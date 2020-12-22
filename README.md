@@ -1,6 +1,6 @@
 # Passerby
 A full-stack web application for whoever happens to pass by!
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/52344847537697.587dadd3e8400.jpg" width="800">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/52344847537697.587dadd3e8400.jpg" width="500">
 
 ## Index
 
@@ -67,7 +67,7 @@ List all the pre-requisites the system needs to develop this project.
 - [CUNY Tech Prep starter repo](https://github.com/CUNYTechPrep/project-starter)
 
 ## Gallery
-<img src="https://raw.githubusercontent.com/jackylau-nyc/dungeon-descent/main/gameplay_ss.png" width="800">
+<img src="https://imgur.com/a/S8PtWma" width="800">
 
 ## Credit/Acknowledgment
 - [JSMastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A0)
